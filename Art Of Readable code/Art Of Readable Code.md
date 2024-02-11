@@ -4,7 +4,7 @@
 - Specificity in naming methods or functions is crucial for clarity and understanding of code.
 - Vague or ambiguous words like "get" should be avoided in method names as they don't convey the precise action being performed.
 - Employing specific and descriptive names enhances code readability, maintainability, and makes it easier for other developers to understand the purpose and behavior of the code.
-- 
+
 ## Avoid using Generic Names
 - Names like "tmp", "retval", and "foo" are usually placeholders that indicate a lack of thought or consideration for a meaningful name.
 - Instead of resorting to generic names, choose names that accurately describe the purpose or value of the entity. This enhances code readability and helps prevent misunderstandings
